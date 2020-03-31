@@ -23,5 +23,6 @@ Et encore une autre :
 
 tst2
 tst5
+tst6
 
 MAINTENANT DIFFérents **formats d**e ca***ractè***res *surlignés*,~~gras, i~~talique
