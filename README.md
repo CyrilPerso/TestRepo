@@ -21,4 +21,6 @@ Et encore une autre :
 
 -   Essai 3
 
+tst1
+
 MAINTENANT DIFFérents **formats d**e ca***ractè***res *surlignés*,~~gras, i~~talique
