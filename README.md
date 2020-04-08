@@ -34,3 +34,6 @@ MAINTENANT DIFFérents **formats d**e ca***ractè***res *surlignés*,~~gras, i~~
 [![Watch the video](/img/watchvideo.png)](http://ubuntu.r1chard.eu/videos/Git_Revenir_version_precedente.mp4)
 
 [![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net)
+
+TEST SRC IMAGE :</br>
+<img width="885" alt="action-slack-notify-rtcamp" src="https://github.com/cyrilGFI/AutomationAccount/blob/master/img/Spn_Permissions.jpg?raw=true"> 
