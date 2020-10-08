@@ -28,6 +28,7 @@ tst4
 tst5
 tst6
 tst7
+tsst8
 
 
 MAINTENANT DIFFérents **formats d**e ca***ractè***res *surlignés*,
