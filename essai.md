@@ -3,6 +3,8 @@ test2
 test3
 test4
 test5
+test6
+
 Test de fichier .md
 
 -   Ceci est le point 1
