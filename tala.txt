@@ -1,2 +1,8 @@
 essai tala
+<<<<<<< HEAD
 essai tala 2
+=======
+zozo 1
+dccdsdfsdfd
+dfsdf
+>>>>>>> 5d49ec64dfa70562be25261ffc8f85e08fb32859
